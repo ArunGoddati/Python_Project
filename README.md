@@ -3,7 +3,7 @@
 A terminal-based task management app built in Python using object-oriented programming.  
 It helps you manage your tasks directly from the command line — add, edit, complete, delete, filter, and persist them to a file.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<ArunGoddati>/<Python_Project>/blob/main/TaskForge_Colab_Demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<ArunGoddati>/<Python_Project>/blob/main/TaskForge_Python.ipynb)
 
 ---
 
